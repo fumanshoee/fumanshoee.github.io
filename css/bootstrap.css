@@ -6755,3 +6755,7 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.align-right.slide-in {
+  transform:translateX(30%) scale(0.95);
+}
