@@ -56,7 +56,7 @@ img {
 	max-width: 100%;
 	margin: -10px auto;
 	padding: 0;
-	background-image: url("../images/PKhead.jpg");
+	background-image: url("../images/sadheader.png");
 	    height: 900px; 
     background-attachment: fixed;
     background-position: top center;
@@ -74,7 +74,7 @@ img {
 }
 
 h1.logo {
-	background-image: url("../images/PKlogoW.png");
+	background-image: url("../images/LOGO_nobackground.png");
 	background-size: 50px;
 	background-repeat: no-repeat; 
 	text-align: center;
@@ -304,7 +304,7 @@ span {
       rgba(105, 105, 105, 0.3), 
       rgba(105, 105, 105, 0.3)
     ),
-    url("../images/dt2.jpg");
+    url("../images/moon2.png");
     height: 600px; 
     background-attachment: fixed;
     background-position:  bottom center;
@@ -471,7 +471,7 @@ b.hide {
 	max-width: 100%;
 	margin: -10px auto;
 	padding: 0;
-	background-image: url("../images/PKhead.jpg");
+	background-image: url("../images/sadheader.png");
 	    height: 700px; 
     background-attachment: fixed;
     background-position: 0px 15px;
@@ -605,7 +605,7 @@ font-size: 30px;
       rgba(105, 105, 105, 0.3), 
       rgba(105, 105, 105, 0.3)
     ),
-    url("../images/dt2.jpg");
+    url("../images/moon2.png");
     height: 600px; 
     background-attachment: fixed;
     background-position:  bottom center;
